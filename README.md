@@ -2,31 +2,25 @@
 
 My name is Alina Marina Hermon Castro and currently I am a software development student of the institu
 
+-----------------------------------------------------------------------------------------------
+# My skills
 
-
+[<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='45'>]() [<img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='45'>]() [<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='45'>]() [<img src='https://img.shields.io/badge/Materialize-CC6699?style=for-the-badge&logo=Navbar&logoColor=white' alt='Materialize' height='45'>]() [<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' height='45'>]() [<img src='https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=4FC08D' alt='PHP' height='45'>]() [<img 
+src='https://img.shields.io/badge/.Net score-512BD4?style=for-the-badge&logo=.NET&logoColor=white' alt='.Net core' height='45'>]() [<img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black' alt='mysql' height='45'>]() [<img 
+src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black' alt='SQL Server' height='45'>]() [<img src='https://img.shields.io/badge/Csharp-99CC00?style=for-the-badge&logo=csharp&logoColor=black' alt='Csharp' height='45'>]() [<img
+src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white' alt='JAVA' height='45'>]() [<img
+src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'>]() [<img
+src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() 
 
 
 
 
 -----------------------------------------------------------------------------------------------
-My skills
+Design UX/UI
 
-* HTML
-* CSS
-* JAVASCRIPT
-* PHP
-* MYSQL
-* SQL Server
-* BOOSTRAP
-* MATERIALIZE
-* ADOBE Xd
-* WORDPRESS
-* FIGMA
-* FIGJAM
-* C#
-* JAVA
-* .NET Score
-* MVC
+[<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='FIGMA' height='45'>]() [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt='Wordpress' height='45'>]()
+
+
 
 ------------------------------------------------------------------------------------------------
 
@@ -34,3 +28,11 @@ Languages
 
 * Español
 * English
+
+------------------------------------------------------------------------------------------------
+
+# Social Networks
+
+[<img src='https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white' alt='github' height='45'>]() [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='45'>]() [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinp&logoColor=white' alt='LinkedIn' height='45'>]() [<img
+src='https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white' alt='Behance' height='45'>]()
+
