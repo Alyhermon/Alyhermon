@@ -1,6 +1,12 @@
 # Hello Everyone 👋
 
-My name is Alina Marina Hermon Castro and currently I am a software development student of the institu
+This is me, Alina Marina Hermon Castro and current I am study Software Engineering at APEC
+but I am Tec.sotfware Development because I studied a technician about sotfware development at ITLA
+
+I can be Full-stack
+
+I like much the web site, create it and Design it...
+My strength is the Front-end
 
 -----------------------------------------------------------------------------------------------
 # My skills
@@ -18,7 +24,7 @@ src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angula
 -----------------------------------------------------------------------------------------------
 Design UX/UI
 
-[<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='FIGMA' height='45'>]() [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt='Wordpress' height='45'>]()
+[<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black' alt='FIGMA' height='45'>]() [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt='Wordpress' height='45'>]()
 
 
 
@@ -33,6 +39,7 @@ Languages
 
 # Social Networks
 
-[<img src='https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white' alt='github' height='45'>]() [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='45'>]() [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinp&logoColor=white' alt='LinkedIn' height='45'>]() [<img
+[<img src='https://img.shields.io/badge/github-732E9A?style=for-the-badge&logo=github&logoColor=white' alt='github' height='45'>]() [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='45'>]() [<img
+src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='45'>]() [<img 
 src='https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white' alt='Behance' height='45'>]()
 
