@@ -1,6 +1,4 @@
-#Hi guys 👋![HelloTherePrivateFromPenguinsOfMadagascarGIF]
-
------------------------------------------------------------------------------------------------
+# Hello Everyone 👋
 
 My name is Alina Marina Hermon Castro and currently I am a software development student of the institu
 
