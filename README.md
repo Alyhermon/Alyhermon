@@ -3,10 +3,7 @@
 This is me, Alina Marina Hermon Castro and current I am study Software Engineering at APEC
 but I am Tec.sotfware Development because I studied a technician about sotfware development at ITLA
 
-I can be Full-stack
-
-I like much the web site, create it and Design it...
-My strength is the Front-end
+I am Full stack
 
 -----------------------------------------------------------------------------------------------
 # My skills
@@ -21,8 +18,9 @@ src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logo
 
 # Framework y Librerias
 
+-------------------------------------------------------------------------------------------------
 <img
-src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'>]() [<img
+src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'> [<img
 src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() [<img src='https://img.shields.io/badge/Vue js-99CC00?style=for-the-badge&logo=Vue.js&logoColor=black' alt='Vue' height='45'>]()
 
 
