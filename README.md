@@ -16,7 +16,8 @@ src='https://img.shields.io/badge/.Net score-512BD4?style=for-the-badge&logo=.NE
 src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black' alt='SQL Server' height='45'>]() [<img src='https://img.shields.io/badge/Csharp-99CC00?style=for-the-badge&logo=csharp&logoColor=black' alt='Csharp' height='45'>]() [<img
 src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white' alt='JAVA' height='45'>]() [<img
 src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'>]() [<img
-src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() 
+src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() [<img
+src='https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=oracle&logoColor=white' alt='oracle' height='45'>]()
 
 
 
