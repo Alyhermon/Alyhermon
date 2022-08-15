@@ -29,7 +29,7 @@ src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angula
 
 
 -----------------------------------------------------------------------------------------------
-Design UX/UI
+# Design UX/UI
 
 [<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black' alt='FIGMA' height='45'>]() [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt='Wordpress' height='45'>]()
 
