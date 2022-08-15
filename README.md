@@ -16,6 +16,7 @@ src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=mic
 src='https://img.shields.io/badge/.Net score-512BD4?style=for-the-badge&logo=.NET&logoColor=white' alt='.Net core' height='45'>]() [<img
 src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white' alt='JAVA' height='45'>]() 
 [<img src='https://img.shields.io/badge/Csharp-99CC00?style=for-the-badge&logo=csharp&logoColor=black' alt='Csharp' height='45'>]() 
+[<img src='https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=4FC08D' alt='Python' height='45'>]()
 # Framework y Librerias
 
 -------------------------------------------------------------------------------------------------
