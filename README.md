@@ -1,7 +1,7 @@
 # Hello Everyone 👋
 
 This is me, Alina Marina Hermon Castro and current I am study Software Engineering at APEC
-but I am Tec.sotfware Development because I studied a technician about sotfware development at ITLA
+but I am Tec. Sotfware Development, I studied a technician about sotfware development at ITLA
 
 # I am Full stack developer
 
