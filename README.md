@@ -5,7 +5,6 @@ but I am Tec. Sotfware Development, I studied a technician about sotfware develo
 
 # I am Full stack developer
 
------------------------------------------------------------------------------------------------
 # My skills
 
 [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='45'>]() [<img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='45'>]() 
