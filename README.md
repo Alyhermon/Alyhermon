@@ -20,7 +20,6 @@ src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=jdk&logoC
 
 # Framework y Librerias
 
--------------------------------------------------------------------------------------------------
 <img
 src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'> [<img
 src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() [<img src='https://img.shields.io/badge/Vue js-99CC00?style=for-the-badge&logo=Vue.js&logoColor=black' alt='Vue' height='45'>]()
@@ -31,21 +30,16 @@ src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angula
 [<img src='https://img.shields.io/badge/IONIC-E34F26?style=for-the-badge&logo=ionic&logoColor=white' alt='html' height='45'>]()
 
 
------------------------------------------------------------------------------------------------
 # Design UX/UI
 
 [<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black' alt='FIGMA' height='45'>]() [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt='Wordpress' height='45'>]()
 
-
-
-------------------------------------------------------------------------------------------------
 
 # Languages
 
 * Español
 * English
 
-------------------------------------------------------------------------------------------------
 
 # Social Networks
 
