@@ -15,8 +15,8 @@ src='https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=oracle&
 [<img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black' alt='mysql' height='45'>]() [<img 
 src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black' alt='SQL Server' height='45'>]() [<img 
 src='https://img.shields.io/badge/.Net score-512BD4?style=for-the-badge&logo=.NET&logoColor=white' alt='.Net core' height='45'>]() [<img
-src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white' alt='JAVA' height='45'>]() 
-[<img src='https://img.shields.io/badge/Csharp-99CC00?style=for-the-badge&logo=csharp&logoColor=black' alt='Csharp' height='45'>]() [<img src='https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white' alt='MVC' height='45'>]()
+src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=jdk&logoColor=white' alt='JAVA' height='45'>]() 
+[<img src='https://img.shields.io/badge/Csharp-563D7C?style=for-the-badge&logo=csharp&logoColor=White' alt='Csharp' height='45'>]() [<img src='https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white' alt='MVC' height='45'>]()
 [<img src='https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=4FC08D' alt='Python' height='45'>]()
 
 # Framework y Librerias
@@ -26,7 +26,10 @@ src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logo
 src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'> [<img
 src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() [<img src='https://img.shields.io/badge/Vue js-99CC00?style=for-the-badge&logo=Vue.js&logoColor=black' alt='Vue' height='45'>]()
 
+# Desarrollo de Aplicaciones Moviles
 
+[<img src='https://img.shields.io/badge/React native-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'>]()
+[<img src='https://img.shields.io/badge/IONIC-E34F26?style=for-the-badge&logo=ionic&logoColor=white' alt='html' height='45'>]()
 
 
 -----------------------------------------------------------------------------------------------
