@@ -27,7 +27,7 @@ src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angula
 # Desarrollo de Aplicaciones Moviles
 
 [<img src='https://img.shields.io/badge/React native-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'>]()
-[<img src='https://img.shields.io/badge/IONIC-#008DFF?style=for-the-badge&logo=ionic&logoColor=white' alt='html' height='45'>]()
+[<img src='https://img.shields.io/badge/IONIC-008DFF?style=for-the-badge&logo=ionic&logoColor=white' alt='html' height='45'>]()
 
 
 # Design UX/UI
