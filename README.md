@@ -12,7 +12,7 @@ but I am Tec. Sotfware Development, I studied a technician about sotfware develo
 src='https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=red' alt='laravel' height='45'>]() [<img
 src='https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=oracle&logoColor=white' alt='oracle' height='45'>]()
 [<img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black' alt='mysql' height='45'>]() [<img 
-src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black' alt='SQL Server' height='45'>]() [<img 
+src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white' alt='SQL Server' height='45'>]() [<img 
 src='https://img.shields.io/badge/.Net score-512BD4?style=for-the-badge&logo=.NET&logoColor=white' alt='.Net core' height='45'>]() [<img
 src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=jdk&logoColor=white' alt='JAVA' height='45'>]() 
 [<img src='https://img.shields.io/badge/Csharp-563D7C?style=for-the-badge&logo=csharp&logoColor=White' alt='Csharp' height='45'>]() [<img src='https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white' alt='MVC' height='45'>]()
