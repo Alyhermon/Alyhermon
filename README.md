@@ -8,31 +8,22 @@ but I am Tec. Sotfware Development, I studied a technician about sotfware develo
 # My skills
 
 [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='45'>]() [<img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='45'>]() 
-[<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='Sass' height='45'>]() [<img src='https://img.shields.io/badge/Less-003069?style=for-the-badge&logo=less&logoColor=white' alt='Less' height='45'>]() [<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='45'>]() [<img src='https://img.shields.io/badge/Materialize-CC6699?style=for-the-badge&logo=materialize&logoColor=white' alt='Materialize' height='45'>]()  [<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' height='45'>]() [<img src='https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=4FC08D' alt='PHP' height='45'>]() [<img
-src='https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=red' alt='laravel' height='45'>]() [<img
+[<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='Sass' height='45'>]() [<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='45'>]() [<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' height='45'>]() [<img
 src='https://img.shields.io/badge/Oracle-DD0031?style=for-the-badge&logo=oracle&logoColor=white' alt='oracle' height='45'>]()
 [<img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black' alt='mysql' height='45'>]() [<img 
 src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white' alt='SQL Server' height='45'>]() [<img 
 src='https://img.shields.io/badge/.Net score-512BD4?style=for-the-badge&logo=.NET&logoColor=white' alt='.Net core' height='45'>]() [<img
 src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=jdk&logoColor=white' alt='JAVA' height='45'>]() 
-[<img src='https://img.shields.io/badge/Csharp-563D7C?style=for-the-badge&logo=csharp&logoColor=White' alt='Csharp' height='45'>]() [<img src='https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white' alt='MVC' height='45'>]()
-[<img src='https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=4FC08D' alt='Python' height='45'>]()
-
+[<img src='https://img.shields.io/badge/Csharp-563D7C?style=for-the-badge&logo=csharp&logoColor=White' alt='Csharp' height='45'>]()
 # Framework y Librerias
 
 <img
 src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'> [<img
-src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() [<img src='https://img.shields.io/badge/Vue js-99CC00?style=for-the-badge&logo=Vue.js&logoColor=black' alt='Vue' height='45'>]()
-
-# Desarrollo de Aplicaciones Moviles
-
-[<img src='https://img.shields.io/badge/React native-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'>]()
-[<img src='https://img.shields.io/badge/IONIC-008DFF?style=for-the-badge&logo=ionic&logoColor=white' alt='html' height='45'>]()
-
+src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() 
 
 # Design UX/UI
 
-[<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black' alt='FIGMA' height='45'>]() [<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt='Wordpress' height='45'>]()
+[<img src='https://img.shields.io/badge/ADOBE Xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black' alt='Adobe Xd' height='45'>]() [<img src='https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black' alt='FIGMA' height='45'>]()
 
 
 # Languages
