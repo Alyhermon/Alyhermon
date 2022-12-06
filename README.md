@@ -2,7 +2,7 @@
 
 This is me, Alina Marina Hermón Castro and currently I am study Software at ITLA.
 
-#  Adentrandome al mundo del Full Stack
+#  Enter the world of being Full Stack
 
 # My skills
 
@@ -14,7 +14,7 @@ src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=mic
 src='https://img.shields.io/badge/.Net FRAMEWORK-512BD4?style=for-the-badge&logo=.NET&logoColor=white' alt='.Net core' height='45'>]() [<img
 src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=jdk&logoColor=white' alt='JAVA' height='45'>]() 
 [<img src='https://img.shields.io/badge/Csharp-563D7C?style=for-the-badge&logo=csharp&logoColor=White' alt='Csharp' height='45'>]()
-# Framework y Librerias
+# Framework and Libraries
 
 <img
 src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'> [<img
