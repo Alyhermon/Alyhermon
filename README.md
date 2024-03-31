@@ -16,7 +16,7 @@ src='https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=jdk&logoC
 [<img 
 src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white' alt='SQL Server' height='45'>]()
 [<img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black' alt='mysql' height='45'>]()
-[<img src='https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=oracle&logoColor=red' alt='ORACLE' height='45'>]()
+[<img src='https://img.shields.io/badge/oracle-DD0031?style=for-the-badge&logo=oracle&logoColor=white' alt='ORACLE' height='45'>]()
 
 # Framework and Libraries
 
