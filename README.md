@@ -22,7 +22,7 @@ src='https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=mic
 <img
 src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='React' height='45'> [<img
 src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]() 
-[<img src='https://img.shields.io/badge/Svelte-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='45'>]
+<img src='https://img.shields.io/badge/Svelte-DD0031?style=for-the-badge&logo=svelte&logoColor=white' alt='Svelte' height='45'>
 
 # Design UX/UI
 
