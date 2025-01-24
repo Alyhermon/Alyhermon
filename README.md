@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-This is me, Alina Marina Hermón Castro, I am a results-oriented young individual, willing and simultaneously highly motivated to start and be part of a working team, with a complete readiness to learn more each day while also giving my all to achieve the best outcomes, I studied at ITLA as Software Develoment, Now I am studying at APEC finishing my Carrer as Software Engineer.
+This is me, Alina Marina Hermón Castro, I am a results-oriented young individual, willing and simultaneously highly motivated to start and be part of a working team, with a complete readiness to learn more each day while also giving my all to achieve the best outcomes, I studied at ITLA as Software Develoment, Now I am studying at APEC as Software Engineer.
 
 #  Enter the world of being Full Stack
 
